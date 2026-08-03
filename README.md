@@ -1,6 +1,8 @@
-# Olá, eu sou o Ruan Rabello 👋
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Ruan Rabello — Back-end, Dados, IA, Automação e Cloud">
+</p>
 
-<p align="left">
+<p align="center">
   <strong>Back-end · Dados · Inteligência Artificial · Automação · Cloud</strong>
 </p>
 
