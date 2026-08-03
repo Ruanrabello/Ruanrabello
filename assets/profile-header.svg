@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Ruan Rabello</title>
+  <desc id="description">Back-end, Dados, Inteligência Artificial, Automação e Cloud</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071426"/>
+      <stop offset="0.52" stop-color="#102a54"/>
+      <stop offset="1" stop-color="#31165f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#25d7ff"/>
+      <stop offset="0.5" stop-color="#5b8cff"/>
+      <stop offset="1" stop-color="#a56cff"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#9fc7ff" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+
+  <circle cx="1035" cy="75" r="130" fill="#25d7ff" fill-opacity="0.12" filter="url(#glow)"/>
+  <circle cx="1120" cy="235" r="165" fill="#a56cff" fill-opacity="0.16" filter="url(#glow)"/>
+  <path d="M820 245 C920 155 1010 135 1190 70" fill="none" stroke="url(#accent)" stroke-opacity="0.38" stroke-width="2"/>
+  <path d="M860 270 C965 195 1055 170 1200 135" fill="none" stroke="#25d7ff" stroke-opacity="0.16" stroke-width="1"/>
+
+  <rect x="72" y="63" width="78" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="72" y="137" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="55" font-weight="700" letter-spacing="1.5">RUAN RABELLO</text>
+  <text x="75" y="184" fill="#b8c9e8" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="500" letter-spacing="2.6">BACK-END  •  DADOS  •  IA  •  AUTOMAÇÃO  •  CLOUD</text>
+  <rect x="73" y="222" width="510" height="2" rx="1" fill="url(#accent)" opacity="0.8"/>
+</svg>
