@@ -1,10 +1,15 @@
-# Olá, eu sou o Ruan Rabello 👋
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Ruan Rabello — Back-end, Dados, IA, Automação e Cloud">
+</p>
 
-<p align="left">
+<p align="center">
   <strong>Back-end · Dados · Inteligência Artificial · Automação · Cloud</strong>
 </p>
 
-Sou estudante de **Engenharia da Computação** e desenvolvo APIs, integrações, assistentes de IA e soluções para automação de processos. Atualmente, também trabalho com soluções digitais, SAP, OData e Power Platform.
+## Sobre mim
+
+Sou estudante de **Engenharia da Computação** e atuo em **IT Digital Delivery**, desenvolvendo e apoiando soluções corporativas. Meu foco está em APIs, integrações, assistentes de IA, dados e automação de processos.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ruan-rabello-da-silva-9032b5274/">
@@ -28,17 +33,11 @@ Sou estudante de **Engenharia da Computação** e desenvolvo APIs, integrações
 
 ## Projetos em destaque
 
-### [Enterprise AI Assistant](https://github.com/Ruanrabello/enterprise-ai-assistant)
-
-Plataforma full stack de IA corporativa com FastAPI, React, PostgreSQL, histórico de conversas e suporte a Ollama, Gemini e Grok.
-
-### [Projects](https://github.com/Ruanrabello/Projects)
-
-Catálogo de aplicações e estudos em Back-end, Dados, IA, automação, APIs e desenvolvimento com Python.
-
-### [Excel VBA Automation](https://github.com/Ruanrabello/Excel-vba-projects)
-
-Macros para tratamento de dados, relatórios, PDFs, gráficos e integração do Excel com o Outlook.
+| Projeto | O que demonstra | Stack principal |
+|---|---|---|
+| [Enterprise AI Assistant](https://github.com/Ruanrabello/enterprise-ai-assistant) | Plataforma corporativa de IA, histórico de conversas e múltiplos providers | FastAPI, React, TypeScript, PostgreSQL |
+| [Projects](https://github.com/Ruanrabello/Projects) | Catálogo de aplicações, estudos e experimentos técnicos | Python, APIs, Dados, Machine Learning |
+| [Excel VBA Automation](https://github.com/Ruanrabello/Excel-vba-projects) | Automação de relatórios, dados, PDFs, gráficos e Outlook | Excel, VBA, Automação |
 
 ## Formação e certificações
 
@@ -47,6 +46,10 @@ Macros para tratamento de dados, relatórios, PDFs, gráficos e integração do 
 - Oracle Data Platform Foundations
 - Cisco Python Essentials
 - Estudos direcionados para AWS Cloud Practitioner e Microsoft Azure
+
+## Experiência atual
+
+Atuação em **IT Digital Delivery Back**, com contato com SAP S/4HANA, SAP Fiori, integrações OData, Power Platform e soluções digitais corporativas.
 
 ## Atualmente
 
